@@ -142,7 +142,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .home {
   position: relative; 
-  background: linear-gradient(rgba(0,0,0,0.8)100%, rgba(0,0,0,0.8)50%), url('img/benz.jpeg');
+  background: linear-gradient(rgba(0,0,0,0.8)100%, rgba(0,0,0,0.8)50%), url('benz.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
